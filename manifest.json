@@ -1,0 +1,11 @@
+{
+    "name": "hello_ngo",
+    "short_name": "Hello NGO",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#667eea",
+    "theme_color": "#764ba2",
+    "description": "A simple Flutter web application for Hello NGO",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
